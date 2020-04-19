@@ -99,6 +99,12 @@ nav li
     display: inline-block;
     margin-right: 15px;
 }
+form 
+{   
+    display: grid;   
+    grid-template-columns: 1fr auto; 
+   
+}
 
 nav a
 {
